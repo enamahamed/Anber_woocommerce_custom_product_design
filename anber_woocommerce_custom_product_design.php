@@ -1,10 +1,11 @@
 <?php
-
 /**
  * Plugin Name: Anber WooCommerce Custom Product Design
+ * Plugin URL: https://github.com/enamahamed/Anber_woocommerce_custom_product_design
  * Description: A custom product design Plugin
  * Version: 1.0
- * Author: Md Yeasir Arafat
+ * Author: MD Enam Ahamed Chowdhury
+ * Author URI: https://github.com/enamahamed
  */
 if (!defined('ABSPATH')) {
     exit; // Exit if accessed directly.
